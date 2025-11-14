@@ -1,0 +1,27 @@
+*.pyc
+*.fcstd1
+*.FCStd1
+*.fcstd2
+*.FCStd2
+*.FCBak
+*.brep
+*.zip
+*.7z
+Private
+
+# =========================
+# Other additional
+# =========================
+
+*.zip
+*.7z
+*.mkv
+*.wav
+*.exe
+*.lnk
+*.bak
+
+@Ign-*/
+@Ign-*
+
+# ============================================
