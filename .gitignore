@@ -20,6 +20,7 @@ Private
 *.exe
 *.lnk
 *.bak
+*.bat
 
 @Ign-*/
 @Ign-*
